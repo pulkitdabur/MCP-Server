@@ -1,6 +1,7 @@
 # MCP-Server
 
-A minimal Python-based **Model Context Protocol (MCP) server** with a simple client example.  
+A minimal Python-based **Model Context Protocol (MCP) server** with a simple client example. 
+THe MCP server is a wrapper of a Tool API which is deployed locally.
 This project demonstrates how to expose tools via MCP and interact with them from a client.
 
 ## Features
